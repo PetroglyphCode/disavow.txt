@@ -1,0 +1,10 @@
+# Two pages to disavow
+# http://spam.example.com/stuff/comments.html
+# http://spam.example.com/stuff/paid-links.html
+
+# Per domain to disavow
+domain:lazor.holyspiritunionnj.org
+domain:urlm.co
+domain:professional-review.com
+domain:starovyna.com
+domain:prlog.ru
